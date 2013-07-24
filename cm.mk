@@ -1,3 +1,5 @@
+# modified by alamsyah @2013.07.24 for Andromax-C AD686G EG902
+
 ## Specify phone tech before including full_phone
 $(call inherit-product, vendor/cm/config/gsm.mk)
 
@@ -12,7 +14,7 @@ $(call inherit-product, device/hisense/AD686G/device_AD686G.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := AD686G
-PRODUCT_NAME := cm_AD686G
-PRODUCT_BRAND := hisense
+PRODUCT_NAME := CM_AD686G
+PRODUCT_BRAND := Hisense
 PRODUCT_MODEL := AD686G
-PRODUCT_MANUFACTURER := hisense
+PRODUCT_MANUFACTURER := Hisense
