@@ -1,4 +1,5 @@
 # modified by alamsyah @2013.07.24 for Andromax-C AD686G EG902
+
 USE_CAMERA_STUB := true
 
 # inherit from the proprietary version
